@@ -1,0 +1,22 @@
+# OS Generated
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# webpack
+######################
+package-lock.json
+node_modules/
+dist/
+coverage/
+.env
+
+# C#
+######################
+obj/
+bin/
